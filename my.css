@@ -1,0 +1,79 @@
+div{
+    background-color:lightgrey;
+    width: 1340px;
+    height: 300px;
+    padding:70px;
+    margin-top: 1%;
+
+}
+h1{
+    font-weight: 100;
+
+}
+button{
+    background-color:orangered;
+    color: white;
+    width:10%;
+    height: 30px;
+    border-radius: 5%;
+}
+.anotherdiv{
+    height: 100px;;
+    width:6%; 
+    left: 900px;
+    top: 25px;
+    position: absolute;
+ 
+}
+img{
+    width: 300px;
+    height: 400px;
+    border-radius: 3%;
+}
+
+a{
+color: black;
+float: right;
+text-decoration: none;
+padding: 1px;
+margin-left: 30px;
+font-weight: bold;
+
+}
+#rightbox{
+  float: right;
+    background-color:lightgrey;
+    width: 35%;
+    height: 170px;
+    padding: 5dvh;
+    margin-right:100px;
+
+    
+}
+#leftbox{
+    float: left;
+    background-color:lightgrey;
+    width: 35%;
+    height: 170px;
+padding: 5dvh;
+margin-left: 100px;
+
+}
+#imgs{
+    width: 150px;
+    height: 70px;
+    top: 5px;
+}
+.home1{
+    height: 170px;
+    width:35%;
+    float:right;
+    
+}
+.home2{
+    height: 170px;
+    width: 35%;
+    float:right;
+
+
+}
